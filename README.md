@@ -7,4 +7,4 @@ we are going to have 3 objectivesfor the program you are going to create utilizi
 - Objective #3 –Starting from Node 1, Use BFS to tell me how many layers exist in the given graph.The root will be layer 0.
 
 ## To run
-`python3 project2.py`, will output results from `input1.txt`
+`python3 project2.py` on terminal, will output results from `input1.txt`
